@@ -113,4 +113,4 @@ Modelo normalizado hasta 3FN (ver NORMALIZACION.md). Tablas: roles, generos_usua
 El CRUD de esta entrega trabaja sobre juegos (con JOIN a categorias_juego) y usuarios (con JOIN a roles).
 
 
-<img src='fotostp/tp7.png' alt='panel de administracion' width='500' height='350'>
+<img src='fotostp/tp7.PNG' alt='panel de administracion' width='500' height='350'>
