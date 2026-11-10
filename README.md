@@ -114,3 +114,4 @@ El CRUD de esta entrega trabaja sobre juegos (con JOIN a categorias_juego) y usu
 
 
 <img src='fotostp/tp7.PNG' alt='panel de administracion' width='500' height='350'>
+<img src='fotostp/tp7..PNG' alt='usuario' width='500' height='350'>
